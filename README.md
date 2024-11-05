@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-### Name: Rohith Prem S
-### Register Number: 212223040172
+### Name: Midhun S
+### Register Number: 212223240087
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 
